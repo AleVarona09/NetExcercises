@@ -1,0 +1,14 @@
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\bin\Debug\net7.0\NetExcercises.exe
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\bin\Debug\net7.0\NetExcercises.deps.json
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\bin\Debug\net7.0\NetExcercises.runtimeconfig.json
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\bin\Debug\net7.0\NetExcercises.dll
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\bin\Debug\net7.0\NetExcercises.pdb
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\obj\Debug\net7.0\NetExcercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\obj\Debug\net7.0\NetExcercises.AssemblyInfoInputs.cache
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\obj\Debug\net7.0\NetExcercises.AssemblyInfo.cs
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\obj\Debug\net7.0\NetExcercises.csproj.CoreCompileInputs.cache
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\obj\Debug\net7.0\NetExcercises.dll
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\obj\Debug\net7.0\refint\NetExcercises.dll
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\obj\Debug\net7.0\NetExcercises.pdb
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\obj\Debug\net7.0\NetExcercises.genruntimeconfig.cache
+C:\Users\ale\Documents\My_Projects\NetExcercises\NetExcercises\obj\Debug\net7.0\ref\NetExcercises.dll
